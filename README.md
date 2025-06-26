@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-[Guide]([https://imgur.com/a/2HNBO0u]).
+[Guide] [https://imgur.com/a/2HNBO0u]
 
 ## Notes
 
